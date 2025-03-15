@@ -1,0 +1,6 @@
+Spoof Check Results:
+Raw Socket Access: ENABLED
+hping3 Spoofing: SUCCESS
+Traceroute: NOT FILTERED
+VPS Provider: UNKNOWN
+Virtualization: KVM
